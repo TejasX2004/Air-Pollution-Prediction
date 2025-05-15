@@ -20,5 +20,4 @@ This project uses Facebook's [Prophet](https://facebook.github.io/prophet/) time
 
 ---
 
-## 📂 Project Structure
 
